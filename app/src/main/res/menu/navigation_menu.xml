@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/c0"
+        android:title="فهرس تحديات المهندية هبة"/>
+    <item
+        android:title="اقسام الرئيسية">
+        <menu>
+        <item android:id="@+id/c1"
+        android:title="الصفحة الرئيسية"/>
+    <item
+        android:id="@+id/c2"
+        android:title="قسم الاندرويد" />
+    <item android:id="@+id/c3"
+        android:title="قسم الاستراحة" />
+
+</menu>
+    </item>
+    <item android:title="قسم المشاريع">
+
+    <menu>
+        <item
+            android:id="@+id/c4"
+            android:title="مشروع بطاقة المعايدة" />
+        <item android:id="@+id/c5"
+            android:title="مشروع فقط جافا" />
+        <item android:id="@+id/c6"
+            android:title="مشروع ميواك"
+            />
+        <item
+            android:id="@+id/c7"
+            android:title="مشروع كرة السلة" />
+        <item android:id="@+id/c8"
+            android:title="مشروع موسيقى" />
+        <item android:id="@+id/c9"
+            android:title="مشروع اخرى"
+            />
+    </menu>
+    </item>
+
+
+</menu>

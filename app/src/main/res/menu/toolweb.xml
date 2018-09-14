@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/back"
+    android:icon="@drawable/back"
+    app:showAsAction="always"
+    android:title="back"
+
+    />
+    <item
+    android:id="@+id/forward"
+        android:icon="@drawable/forward"
+        app:showAsAction="always"
+        android:title="forward"
+
+        />
+    <item
+    android:id="@+id/refresh"
+        android:icon="@drawable/refresh"
+        android:title="refresh"
+        app:showAsAction="always"
+    />
+</menu>
